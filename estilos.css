@@ -8,7 +8,7 @@ label {
     display:block;
     margin:0 auto;
     width:510px;
-    color: #666666;
+    color: cadetblue;
     font-family:Arial;
 }
  
@@ -20,7 +20,7 @@ form {
 .cajas{
     width:380px;
     height:15px;
-    background:#666666;
+    background:cadetblue;
     border:2px solid #f6f6f6;
     padding:10px;
     margin-top:5px;
@@ -30,7 +30,7 @@ form {
 select{
     width:400px;
     height:40px;
-    background:#666666;
+    background:cadetblue;
     border:2px solid #f6f6f6;
     padding:10px;
     margin-top:5px;
