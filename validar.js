@@ -28,7 +28,7 @@ function validar(form) {
     }
 
 //Si todo es valido
-
+    alert("Datos correctos")
     return true;
 
 }
